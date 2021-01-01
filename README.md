@@ -9,3 +9,4 @@ Added a couple of other games.
 - math game
 - racing game
 - crypto ("spy code")
+- Rock/Paper/Scissors
